@@ -1,0 +1,28 @@
+body {
+  background-color: #141414;
+  margin-inline: 2rem;
+}
+
+nav a:hover {
+  transform: scale(1.1);
+  opacity: 1;
+  color: white;
+}
+
+.logo {
+  width: 100px;
+}
+.img {
+  width: 200px;
+}
+
+.avatar {
+  width: 40px;
+}
+.font-h {
+  font-size: 1rem;
+}
+
+.font-footer {
+  font-size: 0.75rem;
+}
