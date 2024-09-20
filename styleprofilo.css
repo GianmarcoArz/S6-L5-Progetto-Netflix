@@ -1,0 +1,16 @@
+body {
+  background-color: #141414;
+  margin-inline: 2rem;
+}
+
+.logo {
+  width: 100px;
+}
+
+.avatar {
+  width: 120px;
+}
+
+.fleg {
+  width: 20px;
+}

@@ -1,0 +1,18 @@
+nav {
+  background-color: black;
+}
+
+body {
+  background-color: #ffffff;
+}
+main {
+  padding-inline: 5rem;
+  padding-block: 3rem;
+}
+.logo {
+  width: 100px;
+}
+
+.avatar {
+  width: 40px;
+}
